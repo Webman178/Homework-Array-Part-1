@@ -9,7 +9,7 @@ public class Main {
 
         int arr3 [] = new int[] {50, 100, 200};
 
-        //Задание 2
+        ///Задание 2
         System.out.println("Задание 2");
         for (int i = 0; i < arr1.length; i++) {
             if (i < arr2.length-1)
